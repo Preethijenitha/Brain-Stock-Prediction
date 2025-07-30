@@ -31,13 +31,8 @@ Smoking Status,
 Stroke (target variable)
 
 Dataset
-
 References Kaggle
 
 
 
 
-
-
-
-Ask ChatGPT
