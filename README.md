@@ -1,4 +1,4 @@
-#🧠 Brain Stroke Prediction using Machine Learning
+# 🧠 Brain Stroke Prediction using Machine Learning
 
 This project focuses on predicting the likelihood of a person having a brain stroke based on medical and lifestyle factors using machine learning techniques. The goal is to help in early detection and prevention strategies by analyzing patient data and training predictive models.
 
